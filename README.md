@@ -9,6 +9,6 @@ The following link is what's used below.
 
 Now try an icon with:
     
-    ![icon](images/find.svg)   
+    ![icon](images/question.svg)   
 
-![icon](images/find.svg)
+![icon](images/question.svg)
