@@ -9,6 +9,6 @@ It works for jpg's:
 
 But it doesn't work for svg's:
     
-    ![icon](images/question.svg)   
+    ![Kiku](images/question.svg)   
 
-![icon](images/question.svg)
+![Kiku](images/question.svg)
