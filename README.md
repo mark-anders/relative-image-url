@@ -1,13 +1,13 @@
 # relative-image-url
-The Stack Overflow question that I found asking if relative image links were supported said "No", but they are.
+The Stack Overflow question that I found asking if relative image links were supported said "No", but it's more complicated.
 
-The following link is what's used below.
+It works for jpg's:
 
     ![Kiku](images/Kiku.jpg)
 
 ![Kiku](images/Kiku.jpg)
 
-Now try an icon with:
+But it doesn't work for svg's:
     
     ![icon](images/question.svg)   
 
