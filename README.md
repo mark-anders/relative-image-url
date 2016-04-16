@@ -6,3 +6,9 @@ The following link is what's used below.
     ![Kiku](images/Kiku.jpg)
 
 ![Kiku](images/Kiku.jpg)
+
+Now try an icon with:
+    
+    ![icon](images/find.svg)   
+
+![icon](images/find.svg)
